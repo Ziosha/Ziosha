@@ -1,5 +1,7 @@
 # 💫 About Me:
-soy un apasionado por la programación. En mi andadura, como estudiante, he llevado a cabo varios proyectos individuales y grupales en los que desarrollé mis habilidades técnicas y blandas. <br>Me encanta trabajar y resolver problemas en equipo me gustaría profundizar en mis conocimientos actuales y otros, para que a través de futuros proyectos, conozca más sobre su funcionamiento y mejores prácticas.
+Soy un apasionado de la programación. A lo largo de mi trayectoria como estudiante, he liderado diversos proyectos, tanto individuales como en equipo, que me han permitido desarrollar tanto mis habilidades técnicas como las habilidades interpersonales.
+
+Disfruto colaborando con otros para resolver problemas y me entusiasma la idea de ampliar mis conocimientos actuales y explorar nuevos horizontes. Mi objetivo es profundizar en aspectos específicos de la programación y adquirir una comprensión más completa, no solo de cómo funcionan, sino también de las mejores prácticas asociadas. Estoy ansioso por aplicar estos conocimientos en futuros proyectos, contribuyendo así a mi crecimiento profesional y al éxito de los equipos con los que colabore
 
 
 ## 🌐 Socials:
